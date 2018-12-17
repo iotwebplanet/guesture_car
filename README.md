@@ -3,7 +3,7 @@ arduino car with RF 433 Module required component list
 
   4wheel Car KIT
   
-  L293D Module
+  L293D Module/ L298N
   
   2 Arduino
   
