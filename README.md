@@ -17,4 +17,4 @@ arduino car with RF 433 Module required component list
   
   library is required to download https://github.com/m0/Updated-Arduino-VirtualWire-Library
   
-  form iotwebplanet.com
+  buy components form https://iotwebplanet.com
